@@ -1,0 +1,13 @@
+{
+  "name": "@monorepo/stringutil",
+  "version": "1.0.0",
+  "description": "String utilities",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Peters <kwpeters@gmail.com>"
+}
