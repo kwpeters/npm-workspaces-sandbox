@@ -2,11 +2,23 @@
 
 Kev's TypeScript monorepo.
 
-## Building
+## Development
 
-```powershell
-npm run build
-```
+- Clone this repo.
+
+- Install dependencies:
+
+    ```powershell
+    npm install
+    ```
+
+- Because dependent projects make use of `.d.ts` files that are built from their
+  dependencies, you’ll have to build after cloning before you can navigate the
+  repo in an editor without seeing spurious errors.
+
+    ```powershell
+    npm run build
+    ```
 
 ## TODO
 
