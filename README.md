@@ -11,6 +11,7 @@ npm run build
 ## TODO
 
 - Setup TS [config file inheritance](https://www.typescriptlang.org/docs/handbook/project-references.html)
+- Setup unit test projects.
 - Setup ESLint.
 - Setup typescript-eslint
 - Add [import/no-extraneous-dependencies](https://www.npmjs.com/package/eslint-plugin-import)
