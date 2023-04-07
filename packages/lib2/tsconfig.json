@@ -1,12 +1,12 @@
 {
     "compilerOptions": {
+        "incremental": true,
         "target": "es2022",
         "module": "commonjs",
-        "moduleResolution": "node",
         "declaration": true,
         "declarationMap": true,
         "strict": true,
-        "incremental": true,
+        "moduleResolution": "node",
         "esModuleInterop": true,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
