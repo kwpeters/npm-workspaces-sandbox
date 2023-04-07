@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "Kevin's monorepo",
     "private": true,
+    "engines": {
+        "node": ">=18.15.0",
+        "npm": ">=9.5.0"
+    },
     "author": "Kevin Peters <kwpeters@gmail.com>",
     "workspaces": [
         "packages/*"
